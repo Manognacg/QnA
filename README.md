@@ -6,4 +6,4 @@ REST API using MVC (Model, View, Controller) architecture for a tech QnA databas
 - MongoDB service needs to be enabled and listening at Port:```27017```.
   <br />
   <br />
-contact: [amoghpgowda@gmail.com](mailto:amoghpgowda@gmail.com)
+
